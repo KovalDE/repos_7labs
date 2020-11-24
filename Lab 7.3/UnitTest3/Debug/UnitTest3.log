@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  UnitTest3.cpp
+W:\Labs AP\Lab 7.3\UnitTest3\UnitTest3.cpp(16,12): warning C4101: j2: неиспользованная локальная переменная
+W:\Labs AP\Lab 7.3\UnitTest3\UnitTest3.cpp(15,12): warning C4101: j1: неиспользованная локальная переменная
+W:\Labs AP\Lab 7.3\UnitTest3\UnitTest3.cpp(16,8): warning C4101: i2: неиспользованная локальная переменная
+W:\Labs AP\Lab 7.3\UnitTest3\UnitTest3.cpp(15,8): warning C4101: i1: неиспользованная локальная переменная
+     Создается библиотека W:\Labs AP\Lab 7.3\Debug\UnitTest3.lib и объект W:\Labs AP\Lab 7.3\Debug\UnitTest3.exp
+  UnitTest3.vcxproj -> W:\Labs AP\Lab 7.3\Debug\UnitTest3.dll

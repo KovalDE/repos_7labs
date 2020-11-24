@@ -83,6 +83,7 @@ int main()
 	Sum(a, rowCount, colCount, b);
 	cout << endl;
 	cout << "Кількість стовпчиків з нульовими елементами: " << Part1_Count(a, rowCount, colCount,0);
+	cout << endl;
 	for (int i = 0; i < rowCount; i++)
 		delete[] a[i];
 	delete[] a;
